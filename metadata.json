@@ -1,0 +1,7 @@
+{
+  "name": "LinguistLive AI",
+  "description": "A real-time immersive language learning platform powered by Gemini 2.5 Native Audio API for natural conversational practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
